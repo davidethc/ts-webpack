@@ -1,0 +1,23 @@
+/* filepath: /Users/monky02/Desktop/ts-webpack/src/styles/Counter.css */
+.counter {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.counter h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.counter-image {
+  width: 200px;
+  height: auto;
+  margin: 20px 0;
+}
+
+.counter-button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+}
